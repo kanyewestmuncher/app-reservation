@@ -16,6 +16,7 @@ Projet conçu en équipe avec : [Joseph Karib]
 - 
     En tant qu’élève, je veux me connecter automatiquement afin de ne pas avoir à entrer mon numéro de DA.
 En tant qu’élève, je veux réserver du matériel afin de pouvoir l’utiliser sans passer par teams.
+En tant qu'élève, j'aimerais avoir la prochaine date disponible pour réserver
 En tant que technicien, je veux recevoir une notification lorsqu’une réservation est faite afin de préparer le matériel.
 En tant qu’élève, je veux recevoir une notification lorsque mon matériel est prêt afin de savoir quand le récupérer.
 En tant que technicien, je veux voir et gérer les réservations afin d’organiser la préparation du matériel.
